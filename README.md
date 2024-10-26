@@ -29,7 +29,7 @@ Make sure you have the following installed:
 
 - **Python 3.8+**
 - **Neo4j**: A Neo4j database instance (local or hosted).
-- **OpenAI Account** (if using OpenAI API for the language model).
+- **OpenAI Account** ( OpenAI API for the language model).
 
 ## Installation
 
